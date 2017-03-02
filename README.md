@@ -1,3 +1,3 @@
 # FireFox
 design direfox 
-seclect any payload about FireFox webexplor
+seclect any payload about FireFox webexplorer amd  Redstar
